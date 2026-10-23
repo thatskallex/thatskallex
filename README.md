@@ -1,4 +1,4 @@
-w<img src="assets/cat.png" alt="a tiny kitten (my wife) at a computer" width="480">
+<img src="assets/cat.png" alt="a tiny kitten (my wife) at a computer" width="480">
 
 ### hi!! i'm aleksandr, alex, or 小松.
 
